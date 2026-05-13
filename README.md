@@ -60,6 +60,23 @@ Entre los principales problemas detectados destacan:
 
 # Fase 2: Dimensión Social y Equidad (S)
 
+## 2.1 Accesibility
+
+Gracias a la herramienta web de  WAVE Web Accessibility Evaluation Tool podemos obtener una medición clara de la accesibilidad de esta web. Anteriormente obtuvimos un parámetro de 54 respecto a la accesibilidad pero vamos a profundizar más en ello y a darle la importancia que se merece.
+
+<img width="344" height="250" alt="image" src="https://github.com/user-attachments/assets/cdaab64f-da3b-44f9-a121-05638f55d4e1" />
+
+## 2.2 Accesibility errors
+
+Muy importante y a tener en cuenta son los 11 errores que nos aparecen y los 29 errores de contraste que obtenemos.
+
+<img width="322" height="460" alt="image" src="https://github.com/user-attachments/assets/cc533f48-f57b-4ef7-a285-8de1f70140af" />
+
+Tenemos variedad de erorres pero sobre todo errores de contraste , algo que reduce mucho nuestra accesibilidad.
+También observamos errores por falta de texto alternativo o de etiquetado que debemos tener en cuenta cuándo refactorizemos la web
+
+
+
 # Fase 3: Dimensión de Gobernanza y Ética (G)
 
 # Fase 4: Propuesta de Refactorización (Green Coding)
