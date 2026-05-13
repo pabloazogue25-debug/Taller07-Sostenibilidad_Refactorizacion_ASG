@@ -21,11 +21,11 @@
 
         A tener en cuenta que el elemento mas grande de la pantalla tarda 13 segundos  en aparecer.
         
-        <img width="491" height="517" alt="image" src="https://github.com/user-attachments/assets/2dbc3faa-e93d-4991-a02e-4774ec8d04a6" />
+        ![Lighthouse rendimiento](https://github.com/user-attachments/assets/2dbc3faa-e93d-4991-a02e-4774ec8d04a6)
 
         También observamos en la imágen inferior que tenemos 3 archivos muy pesados (entre 2.500 KB y 3.500 KB ) lo que realentiza mucho la carga
 
-        <img width="553" height="168" alt="image" src="https://github.com/user-attachments/assets/9d712589-d069-4f34-ba49-cbee57a6b213" />
+        ![Archivos pesados](https://github.com/user-attachments/assets/9d712589-d069-4f34-ba49-cbee57a6b213)
         
    ### 1.3 Conclusión y Análisis.
 
